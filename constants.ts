@@ -9,11 +9,12 @@ export const ODUS_OLORI: OduName[] = [
 ];
 
 export const COLORS = {
-  bg: "#121212",
-  card: "#1e1e1e",
-  primary: "#FFD700",
-  textLight: "#f0f0f0",
-  textMedium: "#aaaaaa",
-  border: "#333333",
-  error: "#e74c3c"
+  bg: "#FDFBF7",
+  card: "#FFFFFF",
+  primary: "#C5A059",
+  secondary: "#A65D47",
+  textDeep: "#2C1E11",
+  textMedium: "#6B5A4B",
+  border: "#E8E2D9",
+  error: "#C0392B"
 };
